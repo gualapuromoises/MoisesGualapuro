@@ -15,7 +15,7 @@ description              : &description "Moises is a Bioinformatician interested
 url                      : https://gualapuromoises.github.io/MoisesGualapuro/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/gualapuromoises/MoisesGualapuro"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Moises Gualapuro"
-  avatar           : "images/profile.jpg"
+  avatar           : #"images/profile.jpg"
   bio              : "Bioinformatician, interested in quantitative biosciences and tropical diseases."
   location         : "Km 7, Muyuna Road, Tena, Ecuador"
   employer         : "Universidad Regional Amazonica Ikiam"
