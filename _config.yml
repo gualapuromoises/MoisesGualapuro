@@ -60,7 +60,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter 
 facebook:
-  username               : &gualapuro 
+  username               : &facebook 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Moises Gualapuro"
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   bio              : "Bioinformatician, interested in quantitative biosciences and tropical diseases."
   location         : "Km 7, Muyuna Road, Tena, Ecuador"
   employer         : "Universidad Regional Amazonica Ikiam"
