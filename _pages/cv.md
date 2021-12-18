@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CURRICULUM VITAE"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biotechnology, Universidad San Franciscod de Quito, 2013
+* M.S. in Bioinformatics and Systems Biology, The University of Manchester, 2019
+* M.S. in Mathematics and Computation, UNIR, 2022 (expected)
 
 Work experience
 ======
