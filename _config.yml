@@ -8,13 +8,13 @@
 # Site Settings
 theme                    : jekyll-theme-cayman
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Moises Gualapuro / Personal Information"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Moises Gualapuro"
+description              : &description "Moises is a Bioinformatician interested in quantitative biosciences and tropical diseases."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://gualapuromoises.github.io/MoisesGualapuro/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
