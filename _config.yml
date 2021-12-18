@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Moises Gualapuro"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Bioinformatician, interested in quantitative biosciences and tropical diseases."
+  location         : "Km 7, Muyuna Road, Tena, Ecuador"
+  employer         : "Universidad Regional Amazonica Ikiam"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=pq8uJN4AAAAJ&hl=en"
+  email            : "gualapuro.moises@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Moises-Gualapuro"
   uri              :
   bitbucket        :
   codepen          :
