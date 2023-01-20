@@ -19,10 +19,7 @@ Work experience
 ======
 * October 2015 - Current: Lecturer for Bioinformatics, Quantitatice Methods, Statistics, Experimental Design, Foundations of Biotechnology, Bioproducts, Thesis Methods, 
   * Universidad Regional Amazonica Ikiam
-  * Duties included: 
-    i Elaborate syllabus and plan the semester schedule.
-    ii Prepare course material, tests, and activities.
-    iii Plan and elaborate wet lab and programming-based sessions. 
+  * Duties included: elaborate syllabus and plan the semester schedule; prepare course material, tests, and activities; plan and elaborate wet lab and programming-based sessions. 
   * Supervisor: Zulay Niño
 
 * Fall 2015: Research Assistant
