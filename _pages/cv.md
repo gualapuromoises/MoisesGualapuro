@@ -13,14 +13,17 @@ Education
 ======
 * B.S. in Biotechnology, Universidad San Franciscod de Quito, 2013
 * M.S. in Bioinformatics and Systems Biology, The University of Manchester, 2019
-* M.S. in Mathematics and Computation, UNIR, 2022 (expected)
+* M.S. in Applied Statistics, Universidad Técnica de Manabí, Summer 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2015 - Current: Lecturer for Bioinformatics, Quantitatice Methods, Statistics, Experimental Design, Foundations of Biotechnology, Bioproducts, Thesis Methods, 
+  * Universidad Regional Amazonica Ikiam
+  * Duties included: 
+    * Elaborate syllabus and plan the semester schedule.
+    * Prepare course material, tests, and activities.
+    * Plan and elaborate wet lab and programming-based sessions. 
+  * Supervisor: Zulay Niño
 
 * Fall 2015: Research Assistant
   * Github University
